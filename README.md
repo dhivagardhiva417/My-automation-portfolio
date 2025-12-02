@@ -1,2 +1,1 @@
-# My-automation-portfolio
-Dhivagar
+student mark list 
